@@ -1,3 +1,7 @@
+# Extração de dados em json para excel
+
+$`python3 paises.py`
+
 # Extracao de dados de ações da Bovespa usando Python
 Exportar dados para .csv de ações da Bovespa com Python
 
